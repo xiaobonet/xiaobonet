@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![MR_XIAOBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobonet&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000)
+![MR_XIAOBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobonet&rank_icon=github&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobonet&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000)
 
 ### ⚡ Projects published by FN Open Source Platform
