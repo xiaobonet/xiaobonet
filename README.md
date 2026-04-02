@@ -1,10 +1,20 @@
-## Hi there 👋
+<h2 align="center"> Most Committed </h2>
+<p align="center">
+  <a href="https://github.com/Navya2ak">
+    <img src="https://skillicons.dev/icons?i=debian,apple,docker,kubernetes,flutter,go,java,spring,nodejs,vue,vite,grafana,prometheus,postgres,idea" />
+  </a>
+</p>
 
-![MR_XIAOBO's GitHub stats](https://github-readme-stats-jankinwu.vercel.app/api?username=xiaobonet&rank_icon=github&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000)
-![Most Used Languages](https://github-readme-stats-jankinwu.vercel.app/api/top-langs/?username=xiaobonet&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000)
+## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats-jankinwu.vercel.app/api?username=xiaobonet&rank_icon=github&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000" />
+  <img src="https://github-readme-stats-jankinwu.vercel.app/api/top-langs/?username=xiaobonet&show_icons=true&hide_border=true&layout=compact&theme=merko&locale=en&bg_color=00000000" />
+</p>
 
 ### 👀 Number of homepage visits
-![:name](https://count.getloli.com/@:xiaobonet?theme=love-and-deepspace)
+<p align="center">
+  <img src="https://count.getloli.com/@:xiaobonet?theme=love-and-deepspace" />
+</p>
 
 ### ⚡ Projects published by FN Open Source Platform
 <div align="center">
